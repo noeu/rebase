@@ -1,3 +1,7 @@
 c
 b
+<<<<<<< HEAD
 bbb
+=======
+aaa
+>>>>>>> feature/a
